@@ -15,6 +15,8 @@ export default function Home() {
             email="thl3725@naver.com"
             phone="010-2126-3725"
             imageUrl="/profile.jpg"
+            github="dkxoxo12@naver.com"
+            sns='https://www.instagram.com/dailyworkout377/'
           />
 
           <Introduction />

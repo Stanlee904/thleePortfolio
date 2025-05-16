@@ -73,10 +73,12 @@ export default function ProfileCard({
             <div className="flex items-center gap-2">
               <span className="text-gray-300">SNS:</span>
               <div className="flex-1 border-b border-zinc-700"></div>
+              {sns && <span className="text-gray-300">{sns}</span>}
             </div>
             <div className="flex items-center gap-2">
               <span className="text-gray-300">GitHub:</span>
               <div className="flex-1 border-b border-zinc-700"></div>
+              {github && <span className="text-gray-300">{github}</span>}
             </div>
           </div>
         </div>
