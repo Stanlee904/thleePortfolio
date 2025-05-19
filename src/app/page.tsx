@@ -13,7 +13,7 @@ export default function Home() {
             name="이태희"
             role="Software Developer(jr)"
             email="thl3725@naver.com"
-            phone="010-2126-3725"
+            phone="010-XXXX-XXXX"
             imageUrl="/profile.jpg"
             github="dkxoxo12@naver.com"
             sns='https://www.instagram.com/dailyworkout377/'
